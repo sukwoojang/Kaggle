@@ -1,7 +1,7 @@
 # Kaggle
 
 캐글의 competition에 참여해 프로젝트를 진행한 과정에 대한 정리 자료입니다.
-<p>
+<p><br>
 1. titanic
 <p>
 - 머신러닝 기초 튜토리얼로 진행<p><br>
